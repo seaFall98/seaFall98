@@ -21,13 +21,13 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=default&hide_border=true
-          output: profile/streak-light.svg
+          path: profile/streak-light.svg
 
       - name: Generate streak stats (dark theme)
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117
-          output: profile/streak-dark.svg
+          path: profile/streak-dark.svg
 
       - name: Commit and push
         run: |
