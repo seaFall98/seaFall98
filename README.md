@@ -9,11 +9,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 我正在不断学习新的技术
-- 🔭 探索开源世界，享受编码的乐趣
-- 💡 对新技术保持好奇心
-- 🎯 目标：写出优雅、高效的代码
-- ⚡ Fun fact: 代码写累了就去看会儿云
+- 🌱 I'm constantly learning new technologies
+- 🔭 Exploring the open source world, enjoying the joy of coding
+- 💡 Curious about new technologies
+- 🎯 Goal: write elegant and efficient code
+- ⚡ Fun fact: watch clouds when I'm tired of coding
 
 ---
 
