@@ -44,25 +44,25 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=seaFall98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+      srcset="https://github-readme-stats-black-xi-67.vercel.app/api?username=seaFall98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=seaFall98&show_icons=true&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-black-xi-67.vercel.app/api?username=seaFall98&show_icons=true&theme=default&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=seaFall98&show_icons=true" height="180px" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-black-xi-67.vercel.app/api?username=seaFall98&show_icons=true" height="180px" alt="GitHub Stats" />
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seaFall98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+      srcset="https://github-readme-stats-black-xi-67.vercel.app/api/top-langs/?username=seaFall98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seaFall98&layout=compact&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-black-xi-67.vercel.app/api/top-langs/?username=seaFall98&layout=compact&theme=default&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaFall98&layout=compact" height="180px" alt="Top Languages" />
+    <img src="https://github-readme-stats-black-xi-67.vercel.app/api/top-langs/?username=seaFall98&layout=compact" height="180px" alt="Top Languages" />
   </picture>
 </p>
 
@@ -73,14 +73,14 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=seaFall98&theme=tokyonight&hide_border=true&background=0D1117"
+      srcset="profile/streak-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=seaFall98&theme=default&hide_border=true"
+      srcset="profile/streak-light.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=seaFall98" alt="GitHub Streak" />
+    <img src="profile/streak-light.svg" alt="GitHub Streak" />
   </picture>
 </p>
 
@@ -102,23 +102,6 @@
   </picture>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=seaFall98&theme=tokyonight&no-frame=true&row=1&column=7"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=seaFall98&theme=flat&no-frame=true&row=1&column=7"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=seaFall98&row=1&column=7" alt="GitHub Trophies" />
-  </picture>
-</p>
 
 ---
 
